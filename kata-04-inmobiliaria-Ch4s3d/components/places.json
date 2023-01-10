@@ -1,0 +1,79 @@
+[
+  {
+    "_id": "62fe96dec46f713a9bcf6672",
+    "index": 0,
+    "title": "dolore ut excepteur",
+    "address": "est nostrud sit",
+    "bedrooms": 9,
+    "bathrooms": 9,
+    "metrics": 257,
+    "price": 9166875,
+    "img_url": "guaranty_building.jpg"
+  },
+  {
+    "_id": "62fe96de51c1e3ae43192e51",
+    "index": 1,
+    "title": "proident commodo non",
+    "address": "cillum sint Lorem",
+    "bedrooms": 5,
+    "bathrooms": 5,
+    "metrics": 335,
+    "price": 5569496,
+    "img_url": "guaranty_building.jpg"
+  },
+  {
+    "_id": "62fe96de23bd9747f78189a9",
+    "index": 2,
+    "title": "incididunt amet Lorem",
+    "address": "mollit laborum eu",
+    "bedrooms": 7,
+    "bathrooms": 5,
+    "metrics": 279,
+    "price": 2602928,
+    "img_url": "guaranty_building.jpg"
+  },
+  {
+    "_id": "62fe96de4641744629c5eecd",
+    "index": 3,
+    "title": "Lorem ad sint",
+    "address": "est consequat elit",
+    "bedrooms": 6,
+    "bathrooms": 3,
+    "metrics": 155,
+    "price": 7467105,
+    "img_url": "guaranty_building.jpg"
+  },
+  {
+    "_id": "62fe96ded5a6ec77558d0b2c",
+    "index": 4,
+    "title": "incididunt est culpa",
+    "address": "sint deserunt deserunt",
+    "bedrooms": 10,
+    "bathrooms": 7,
+    "metrics": 92,
+    "price": 8140170,
+    "img_url": "guaranty_building.jpg"
+  },
+  {
+    "_id": "62fe96dea0c87f2999911189",
+    "index": 5,
+    "title": "Lorem culpa nisi",
+    "address": "cupidatat fugiat id",
+    "bedrooms": 2,
+    "bathrooms": 8,
+    "metrics": 146,
+    "price": 2724248,
+    "img_url": "guaranty_building.jpg"
+  },
+  {
+    "_id": "62fe96de9643c5a6a0085b28",
+    "index": 6,
+    "title": "in pariatur qui",
+    "address": "dolor magna ullamco",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "metrics": 126,
+    "price": 6812852,
+    "img_url": "guaranty_building.jpg"
+  }
+]
